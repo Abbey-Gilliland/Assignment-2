@@ -36,5 +36,7 @@ p {
 .picture {
   border: 20px ridge cornflowerblue;
   padding: 1px;
-  margin: 1px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
